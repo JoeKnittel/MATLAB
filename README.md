@@ -11,7 +11,7 @@ If participants were able to successfully click their choice target in the allot
 
 This research culminated in a document submitted for publication in *Psychonomic Bulletin & Review*.
 
-Contained in this repository:
+### Contained in this repository:
 
 - code written in MATLAB 
 - participants' output data from the experiment
