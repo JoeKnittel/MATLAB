@@ -1,7 +1,7 @@
 # MATLAB
 ## Risk-Taking in Perceptual-Motor Control (research)
 
-*This project was completed as undergraduate research I conducted under the guidance of Distinguished Professor of Psychology, Dr. David Rosenbaum, in the Laboratory for Cognition and Action at Pennsylvania State University.*
+*This project was completed as undergraduate research I conducted, guided by Distinguished Professor of Psychology, Dr. David Rosenbaum, in the Laboratory for Cognition and Action at Pennsylvania State University.*
 
 The experiment sought to devise a metric that would indicate individuals' unique level of risk-taking in their physical movements. 
 
