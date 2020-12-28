@@ -7,11 +7,19 @@ The experiment sought to devise a metric that would indicate individuals' unique
 
 **If accurate, the metric could then be used by insurance companies as a rating factor in determining premiums.**
 
-Participants–we studied the motions of 25 undergraduate students–in the study were presented with a series of clicking tasks whereby they were asked to click one of the two target regions on the screen (see image below) within a known period of time. 
+Participants–we studied the motions of 25 undergraduate students–in the study were presented with a series of clicking tasks whereby they were asked to click one of the two target regions on the screen within a known period of time. 
+
+Below is an image depicting what a participant would see during a given trial of the experiment:
 
 <img src="https://github.com/JosephKnittel/MATLAB/blob/main/Images/screen.png" width="50%">
 
-If participants were able to successfully click their choice target in the allotted time, their score increased; otherwise, the score stayed constant. Hence, in order to maximize their score, participants should have attempted to click targets that were within their ability to click in the allotted time. Though this information would not have been evident immediately, after undergoing a large number of trials, they should have developed an ability to determine a target's difficulty level based on their previous performance and their intuitive understanding of [Fitts' Law](https://en.wikipedia.org/wiki/Fitts%27s_law). In short, when a participant attempted to click a target that was beyond their abilities, they had taken a risk, rather than selecting the control target. A participant's overall risk level was an aggregate of the risks they took throughout the trials.
+If participants were able to successfully click their choice target in the allotted time, their score increased; otherwise, the score stayed constant. Hence, in order to maximize their score, participants should have attempted to click targets that were within their ability to click in the allotted time. 
+
+Though this information would not have been evident immediately, after undergoing a large number of trials, participants should have developed an ability to determine a target's difficulty level based on their previous performance and their intuitive understanding of [Fitts' Law](https://en.wikipedia.org/wiki/Fitts%27s_law). 
+
+In short, when a participant attempted to click a target that was beyond their abilities, they had taken a risk, rather than selecting the control target. 
+
+A participant's overall risk level was an aggregate of the risks they took throughout the trials.
 
 This research culminated in a document submitted for publication in *Psychonomic Bulletin & Review*.
 
