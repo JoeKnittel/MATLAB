@@ -17,7 +17,7 @@ If participants were able to successfully click their choice target in the allot
 
 In short, when a participant attempted to click a target that was beyond their abilities, they had taken a risk, rather than selecting the control target. A participant's overall risk level was an aggregate of the risks they took throughout the trials.
 
-This research culminated in a document submitted for publication in [*Psychonomic Bulletin & Review*](https://www.springer.com/journal/13423/).
+This research culminated in a document submitted for publication in *Psychonomic Bulletin & Review*.
 
 <hr>
 
