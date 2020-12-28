@@ -3,7 +3,9 @@
 
 *This project was completed as undergraduate research I conducted under the guidance of Distinguished Professor of Psychology, Dr. David Rosenbaum, in the Laboratory for Cognition and Action at Pennsylvania State University.*
 
-The experiment sought to devise a metric that would indicate individuals' unique level of risk-taking in their physical movements. **If accurate, the metric could then be used by insurance companies as a rating factor in determining premiums.**
+The experiment sought to devise a metric that would indicate individuals' unique level of risk-taking in their physical movements. 
+
+**If accurate, the metric could then be used by insurance companies as a rating factor in determining premiums.**
 
 Participants–we studied the motions of 25 undergraduate students–in the study were presented with a series of clicking tasks whereby they were asked to click one of the two target regions on the screen (see image below) within a known period of time. 
 
