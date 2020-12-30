@@ -5,7 +5,7 @@
 
 **The experiment sought to devise a metric that would indicate individuals' unique level of risk-taking in their physical movements. If accurate, the metric could then be used by insurance companies as a rating factor in determining premiums.**
 
-Participants–we studied the motions of 25 undergraduate students–in the study (which, for the first time brought concepts in [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) into the realm of [motor control](https://en.wikipedia.org/wiki/Motor_control)) were presented with a series of clicking tasks wherein they were asked to click one of the two target regions on the screen within a known period of time. 
+Participants–we studied the motions of 25 undergraduate students–in the study (which, for the first time, brought concepts in [behavioral economics](https://en.wikipedia.org/wiki/Behavioral_economics) into the realm of [motor control](https://en.wikipedia.org/wiki/Motor_control)) were presented with a series of clicking tasks wherein they were asked to click one of the two target regions on the screen within a known period of time. 
 
 Below is an image depicting what a participant would see during a given trial of the experiment:
 
