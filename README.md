@@ -21,6 +21,6 @@ This research culminated in a document submitted for publication in *Psychonomic
 
 ### Contained in this repository:
 
-- code written in matlab 
+- code written in MATLAB 
 - participants' output data from the experiment
 - document presenting findings of the experiment
