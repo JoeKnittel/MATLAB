@@ -3,7 +3,7 @@
 
 *This project was completed as undergraduate research I conducted, guided by Distinguished Professor of Psychology, Dr. David Rosenbaum, in the Laboratory for Cognition and Action at Pennsylvania State University.*
 
-**The experiment sought to devise a metric that would indicate individuals' unique level of risk-taking in their physical movements. If accurate, the metric could then be used by insurance companies as a [rating variable](https://www.iii.org/white-paper/insurance-rating-variables-what-they-are-and-why-they-matter-072419#:~:text=Rating%20variables%20are%20basically%20the,the%20cost%20of%20their%20risks.&text=They%20are%20therefore%20used%20to,price%20their%20policies)%20for%20decades.) in determining premiums.**
+**The experiment sought to devise a metric that would indicate individuals' unique level of risk-taking in their physical movements. If accurate, the metric could then be used by insurance companies as a [rating variable](https://www.iii.org/white-paper/insurance-rating-variables-what-they-are-and-why-they-matter-072419) in determining premiums.**
 
 Participants–we studied the motions of 25 undergraduate students–in the study were presented with a series of clicking tasks wherein they were asked to click one of the two target regions on the screen within a known period of time. 
 
