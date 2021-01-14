@@ -5,7 +5,7 @@
 
 **The experiment sought to devise a metric that would indicate individuals' unique level of risk-taking in their physical movements. If accurate, the metric could then be used by insurance companies as a [rating variable](https://www.iii.org/white-paper/insurance-rating-variables-what-they-are-and-why-they-matter-072419) in determining premiums.**
 
-Participants–we studied the motions of 25 undergraduate students–in the study were presented with a series of clicking tasks wherein they were asked to click one of the two target regions on the screen within a known period of time, after clicking a base region in the center of the screen. 
+Participants–we studied the motions of 25 undergraduate students–in the study were presented with a series of clicking tasks wherein they were asked to click one of the two target regions on the screen within a set period of time, after clicking a base region in the center of the screen, which would start the timer. 
 
 Below is an image depicting what a participant would see during a given trial of the experiment:
 
