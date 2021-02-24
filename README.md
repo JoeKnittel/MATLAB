@@ -1,5 +1,5 @@
-# MATLAB
-## Risk-Taking in Perceptual-Motor Control
+# Undergraduate-Research
+## Risk-Taking in Perceptual-Motor Control (2009)
 
 *This project was completed as undergraduate research I conducted, guided by Distinguished Professor of Psychology, Dr. David Rosenbaum, in the Laboratory for Cognition and Action at Pennsylvania State University.*
 
